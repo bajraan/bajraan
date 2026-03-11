@@ -1,5 +1,5 @@
 
-
+<img src="05_Inkscape/PG7.png">
 <img src="05_Inkscape/PG1.png" usemap="#mapa">
 <map name="mapa">
     <!-- Pole 1 -->
