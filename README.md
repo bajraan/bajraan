@@ -14,4 +14,4 @@
     <area shape="rect" coords="A1,B1,A2,B2" href="https://link2.com" alt="link2">
 </map>
 <img src="05_Inkscape/Page 4.png">
-<img src="05_Inkscape/Page 5.png">
+<img src="05_Inkscape/Page 3.png">
