@@ -3,12 +3,16 @@
 /Badges_Source
 /Badges_QR
 /00_Photos
+/01_Screens
 /05_Inkscape__CV__
 /05_Inkscape__TOOLARGE__
 /10_FreeCAD/__SAFECOPY__
 /99__TMP__
+/99__OLD__
+/99__TMP____OLD__
 /05_Inkscape__TechnicalInterest__/FotoBook.svg
 /IMAGES_TechnicalInterest
+/fonts
 
 #temporary files
 FotoBook.svg.*.svg
